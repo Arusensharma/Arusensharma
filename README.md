@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arusensharma
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Visualization Projects
+- 👀 I’m interested in MLOps
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 💞️ I’m looking to collaborate on MLOps Projects
 - 📫 Connect with me on LinkedIn - https://www.linkedin.com/in/arundhati-sensharma-3764b019b/
 
 <!---
